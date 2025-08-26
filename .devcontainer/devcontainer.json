@@ -1,6 +1,6 @@
 {
     "name": "Python 3 with Manual Chrome Install",
-    "image": "mcr.microsoft.com/devcontainers/python:3.13",
+    "image": "mcr.microsoft.com/devcontainers/python:3.10",
     
     // Usaremos 'postCreateCommand' para instalar todo manualmente
     // en lugar de usar la sección 'features'.
